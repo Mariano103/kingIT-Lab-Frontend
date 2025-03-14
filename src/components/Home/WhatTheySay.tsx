@@ -19,14 +19,14 @@ const WhatTheySay = () => {
             name: "Robert Garcia",
             profession: "Cybersecurity Analyst",
             description:
-                "KingITLabs innovative abilities and problem-solving skills in design projects are exceptional and providing efficient and practical design solutions. ",
+                "￼ KINGIT SOLUTIONS IS A SCAM. ￼ They lie, steal, and hire clueless interns while calling them 'senior developers'—TWO YEARS for a basic wallet MVP proves they’re either frauds or completely incompetent. STAY AWAY.",
         },
         {
             img: WhatTheySayUser2,
             name: "Isabelle Fletcher",
             profession: "Robotics Engineer",
             description:
-                "KingITLabs ability in time management and project execution is equally admirable. Even under tight deadlines, you can complete tasks efficiently.",
+                "￼ KINGIT SOLUTIONS IS A COMPLETE DISASTER ￼—riddled with missed deadlines, broken promises, and laughable project management, they overpromise, underdeliver, and vanish when accountability is needed, turning every project into a frustrating, money-draining nightmare that no serious business should ever trust.",
         },
     ];
 

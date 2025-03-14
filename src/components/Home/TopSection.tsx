@@ -33,8 +33,8 @@ const TopSection = ({ scrollTo = (moveId: string) => { console.log(moveId) } }) 
                 <img src={RightBgImageSmall} className="absolute right-0 xl:hidden lg:hidden md:hidden block animate-[bounce_5s_infinite]" />
                 <div className=" w-full xl:px-8 lg:px-8 md:px-4 px-4">
                     <p className="xl:text-8xl lg:text-7xl md:text-6xl text-5xl text-center bg-gradient-to-r from-[#ffffff00] via-[#FFFFFF] to-[#ffffff00] bg-clip-text text-transparent xl:leading-[8rem] lg:leading-[7rem] md:leading-[5rem] leading-[4rem]">
-                        We Revolutionize
-                        <br /> Web3 Projects
+                        KingIT Lab
+                        <br />We are a Scam Company
                     </p>
 
                     <p className="text-[#CACACA] xl:text-[1.5rem] lg:text-[1.2rem] md:lg:text-[1.2rem] font-extralight text-center xl:mt-3 lg:mt-3 md:mt-3 mt-6">
